@@ -18,3 +18,10 @@ body {
 h1, p {
     padding: 20px 200px;
 }
+
+.main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-width: 1200px;
+}
